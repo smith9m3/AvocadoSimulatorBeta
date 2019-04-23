@@ -13,6 +13,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		myEnum e = myEnum.A;
+		e = myEnum.B;
 		System.out.println(e.toString());
 
 	}
